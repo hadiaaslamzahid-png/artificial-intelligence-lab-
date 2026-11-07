@@ -1,0 +1,202 @@
+strategy,backend,query,split,answerable,rank,score,chunk_id,document,start,end,text
+0,tfidf,What proof is needed for an illness extension?,dev,True,1,0.320108,late:4,late,997,1276,illness and does not create an automatic exception. The medical-evidence condition remains part of the illness rule. Students should read the current course instructions because dates and assessment requirements can change. This document is synthetic teaching material and is not
+0,tfidf,What proof is needed for an illness extension?,dev,True,2,0.24451,late:1,late,277,539,"but medical evidence must be provided before the original deadline. The request should be sent to the course coordinator and should clearly mention the affected course, assessment title and requested extension period. An extension is not automatic and should not"
+0,tfidf,What proof is needed for an illness extension?,dev,True,3,0.153477,late:0,late,0,276,"Assessment and Late Submission Guide
+Students should upload coursework through the learning portal before the deadline shown on the course page. Late submission is normally penalized according to the assessment instructions. A student who becomes ill may request an extension,"
+0,tfidf,How can I get back into my account after forgetting the password?,dev,True,1,0.364121,password:0,password,0,246,"Student Account and Password Help
+A student who forgets an account password can start recovery from the login page by selecting the recovery link. The system will ask for the registered email address or another approved account detail. Follow the"
+0,tfidf,How can I get back into my account after forgetting the password?,dev,True,2,0.27346,password:3,password,737,987,"the password itself.
+
+A password reset is different from creating a new student account. Students should not create a second account to avoid a login problem because records may become separated. The help desk may ask for identity confirmation before"
+0,tfidf,How can I get back into my account after forgetting the password?,dev,True,3,0.17392,assignment:1,assignment,275,511,"as a PDF. Check the filename and open the PDF once before uploading so that missing pages or unreadable content can be noticed.
+
+After selecting the file, wait for the upload to finish. A successful submission should show a confirmation"
+0,tfidf,Where should I upload my coursework?,dev,True,1,0.348046,assignment:0,assignment,0,274,"Coursework Upload Instructions
+Coursework should be uploaded through the assignment page in the learning portal. Open the correct course, select the assessment, and read the submission instructions before choosing a file. For this example, the final assignment must be saved"
+0,tfidf,Where should I upload my coursework?,dev,True,2,0.237312,late:0,late,0,276,"Assessment and Late Submission Guide
+Students should upload coursework through the learning portal before the deadline shown on the course page. Late submission is normally penalized according to the assessment instructions. A student who becomes ill may request an extension,"
+0,tfidf,Where should I upload my coursework?,dev,True,3,0.116487,late:2,late,540,780,"be assumed until the coordinator confirms it.
+
+Students should keep a copy of the submitted file and check that the portal displays a successful upload message. The accepted file format for this example is PDF. If the portal is unavailable,"
+0,tfidf,Are contractors allowed to work remotely?,dev,True,1,0.349407,contractor:1,contractor,282,544,"may depend on the role, schedule, equipment and business needs. A request should describe the proposed working days and how communication with the team will be maintained.
+
+Contractors have a separate condition. Contractors may work remotely only when the signed"
+0,tfidf,Are contractors allowed to work remotely?,dev,True,2,0.283122,contractor:2,contractor,545,833,"contract explicitly permits remote work. A general statement about employee flexibility does not automatically apply to contractors. If the contract is unclear, the contractor should ask the contract owner or the responsible manager for written clarification before working remotely.
+
+The"
+0,tfidf,Are contractors allowed to work remotely?,dev,True,3,0.207676,contractor:0,contractor,0,281,"Remote Work and Contractor Conditions
+This sample workplace guide explains the difference between employee and contractor arrangements. Employees may request remote work when their manager approves the arrangement and the work can be completed safely away from the office. Approval"
+0,tfidf,What should I check when a printer makes blank pages?,test,True,1,0.443215,printer:0,printer,0,242,"Printer Troubleshooting Guide
+When a printer has power but produces blank pages, first check that the paper tray contains suitable paper and that the printer display shows no warning. Check the ink or toner level using the printer controls or"
+0,tfidf,What should I check when a printer makes blank pages?,test,True,2,0.266755,printer:3,printer,711,957,"blank, check that the correct printer is selected and that the document itself contains visible text.
+
+A scanner producing a blank image is a different problem. Check document placement and the selected scanning source for a scanner issue. Do not"
+0,tfidf,What should I check when a printer makes blank pages?,test,True,3,0.256272,printer:1,printer,243,469,"the computer's printer utility. A very low or empty cartridge can cause pages to appear blank. Follow the device manual when handling cartridges and do not force a part that does not move easily.
+
+If ink or toner is available,"
+0,tfidf,I cannot log in because I forgot my password. What do I do?,test,True,1,0.17963,password:3,password,737,987,"the password itself.
+
+A password reset is different from creating a new student account. Students should not create a second account to avoid a login problem because records may become separated. The help desk may ask for identity confirmation before"
+0,tfidf,I cannot log in because I forgot my password. What do I do?,test,True,2,0.123789,assignment:3,assignment,744,995,"replacement before the deadline.
+
+If the upload page gives an error, record the time and take a screenshot. Contact the help desk or course coordinator promptly. Do not assume that an email attachment will replace the official portal submission unless"
+0,tfidf,I cannot log in because I forgot my password. What do I do?,test,True,3,0.11889,printer:1,printer,243,469,"the computer's printer utility. A very low or empty cartridge can cause pages to appear blank. Follow the device manual when handling cartridges and do not force a part that does not move easily.
+
+If ink or toner is available,"
+0,tfidf,How do I hand in my final coursework file?,test,True,1,0.330801,assignment:0,assignment,0,274,"Coursework Upload Instructions
+Coursework should be uploaded through the assignment page in the learning portal. Open the correct course, select the assessment, and read the submission instructions before choosing a file. For this example, the final assignment must be saved"
+0,tfidf,How do I hand in my final coursework file?,test,True,2,0.124975,late:3,late,781,996,"the student should take a screenshot of the error and contact the help desk before the deadline. Sending a file to a classmate does not count as an official submission.
+
+A change in personal plans is not the same as"
+0,tfidf,How do I hand in my final coursework file?,test,True,3,0.090895,late:2,late,540,780,"be assumed until the coordinator confirms it.
+
+Students should keep a copy of the submitted file and check that the portal displays a successful upload message. The accepted file format for this example is PDF. If the portal is unavailable,"
+0,tfidf,I was sick before the due date. What is required?,test,True,1,0.270767,password:2,password,478,736,"that the correct email address was entered. Wait a few minutes before requesting another message. Repeated requests may make the process confusing. If the account remains inaccessible, contact the IT help desk and provide the student username, but never send"
+0,tfidf,I was sick before the due date. What is required?,test,True,2,0.158507,late:3,late,781,996,"the student should take a screenshot of the error and contact the help desk before the deadline. Sending a file to a classmate does not count as an official submission.
+
+A change in personal plans is not the same as"
+0,tfidf,I was sick before the due date. What is required?,test,True,3,0.132834,contractor:2,contractor,545,833,"contract explicitly permits remote work. A general statement about employee flexibility does not automatically apply to contractors. If the contract is unclear, the contractor should ask the contract owner or the responsible manager for written clarification before working remotely.
+
+The"
+0,tfidf,What are tomorrow's flight prices?,test,False,1,0.0,late:0,late,0,276,"Assessment and Late Submission Guide
+Students should upload coursework through the learning portal before the deadline shown on the course page. Late submission is normally penalized according to the assessment instructions. A student who becomes ill may request an extension,"
+0,tfidf,What are tomorrow's flight prices?,test,False,2,0.0,late:1,late,277,539,"but medical evidence must be provided before the original deadline. The request should be sent to the course coordinator and should clearly mention the affected course, assessment title and requested extension period. An extension is not automatic and should not"
+0,tfidf,What are tomorrow's flight prices?,test,False,3,0.0,late:2,late,540,780,"be assumed until the coordinator confirms it.
+
+Students should keep a copy of the submitted file and check that the portal displays a successful upload message. The accepted file format for this example is PDF. If the portal is unavailable,"
+0,tfidf,Who won the football match yesterday?,test,False,1,0.238341,late:0,late,0,276,"Assessment and Late Submission Guide
+Students should upload coursework through the learning portal before the deadline shown on the course page. Late submission is normally penalized according to the assessment instructions. A student who becomes ill may request an extension,"
+0,tfidf,Who won the football match yesterday?,test,False,2,0.232332,password:0,password,0,246,"Student Account and Password Help
+A student who forgets an account password can start recovery from the login page by selecting the recovery link. The system will ask for the registered email address or another approved account detail. Follow the"
+0,tfidf,Who won the football match yesterday?,test,False,3,0.106886,assignment:0,assignment,0,274,"Coursework Upload Instructions
+Coursework should be uploaded through the assignment page in the learning portal. Open the correct course, select the assessment, and read the submission instructions before choosing a file. For this example, the final assignment must be saved"
+10,tfidf,What proof is needed for an illness extension?,dev,True,1,0.320778,late:5,late,951,1212,A change in personal plans is not the same as illness and does not create an automatic exception. The medical-evidence condition remains part of the illness rule. Students should read the current course instructions because dates and assessment requirements can
+10,tfidf,What proof is needed for an illness extension?,dev,True,2,0.238468,late:2,late,402,655,"should clearly mention the affected course, assessment title and requested extension period. An extension is not automatic and should not be assumed until the coordinator confirms it.
+
+Students should keep a copy of the submitted file and check that the"
+10,tfidf,What proof is needed for an illness extension?,dev,True,3,0.142092,late:0,late,0,276,"Assessment and Late Submission Guide
+Students should upload coursework through the learning portal before the deadline shown on the course page. Late submission is normally penalized according to the assessment instructions. A student who becomes ill may request an extension,"
+10,tfidf,How can I get back into my account after forgetting the password?,dev,True,1,0.347534,password:0,password,0,246,"Student Account and Password Help
+A student who forgets an account password can start recovery from the login page by selecting the recovery link. The system will ask for the registered email address or another approved account detail. Follow the"
+10,tfidf,How can I get back into my account after forgetting the password?,dev,True,2,0.259368,password:4,password,737,987,"the password itself.
+
+A password reset is different from creating a new student account. Students should not create a second account to avoid a login problem because records may become separated. The help desk may ask for identity confirmation before"
+10,tfidf,How can I get back into my account after forgetting the password?,dev,True,3,0.214767,password:3,password,533,802,"minutes before requesting another message. Repeated requests may make the process confusing. If the account remains inaccessible, contact the IT help desk and provide the student username, but never send the password itself.
+
+A password reset is different from creating"
+10,tfidf,Where should I upload my coursework?,dev,True,1,0.37228,assignment:0,assignment,0,274,"Coursework Upload Instructions
+Coursework should be uploaded through the assignment page in the learning portal. Open the correct course, select the assessment, and read the submission instructions before choosing a file. For this example, the final assignment must be saved"
+10,tfidf,Where should I upload my coursework?,dev,True,2,0.247506,late:0,late,0,276,"Assessment and Late Submission Guide
+Students should upload coursework through the learning portal before the deadline shown on the course page. Late submission is normally penalized according to the assessment instructions. A student who becomes ill may request an extension,"
+10,tfidf,Where should I upload my coursework?,dev,True,3,0.157871,assignment:2,assignment,387,634,"can be noticed.
+
+After selecting the file, wait for the upload to finish. A successful submission should show a confirmation message or receipt. Students should keep the receipt until the assessment has been marked. Uploading a draft to a personal"
+10,tfidf,Are contractors allowed to work remotely?,dev,True,1,0.509844,contractor:2,contractor,406,693,"communication with the team will be maintained.
+
+Contractors have a separate condition. Contractors may work remotely only when the signed contract explicitly permits remote work. A general statement about employee flexibility does not automatically apply to contractors. If the contract"
+10,tfidf,Are contractors allowed to work remotely?,dev,True,2,0.221861,contractor:0,contractor,0,281,"Remote Work and Contractor Conditions
+This sample workplace guide explains the difference between employee and contractor arrangements. Employees may request remote work when their manager approves the arrangement and the work can be completed safely away from the office. Approval"
+10,tfidf,Are contractors allowed to work remotely?,dev,True,3,0.213879,contractor:3,contractor,621,898,"flexibility does not automatically apply to contractors. If the contract is unclear, the contractor should ask the contract owner or the responsible manager for written clarification before working remotely.
+
+The same rule should be checked against the correct contract version"
+10,tfidf,What should I check when a printer makes blank pages?,test,True,1,0.436467,printer:0,printer,0,242,"Printer Troubleshooting Guide
+When a printer has power but produces blank pages, first check that the paper tray contains suitable paper and that the printer display shows no warning. Check the ink or toner level using the printer controls or"
+10,tfidf,What should I check when a printer makes blank pages?,test,True,2,0.307681,printer:1,printer,190,416,the ink or toner level using the printer controls or the computer's printer utility. A very low or empty cartridge can cause pages to appear blank. Follow the device manual when handling cartridges and do not force a part that
+10,tfidf,What should I check when a printer makes blank pages?,test,True,3,0.259699,printer:4,printer,711,957,"blank, check that the correct printer is selected and that the document itself contains visible text.
+
+A scanner producing a blank image is a different problem. Check document placement and the selected scanning source for a scanner issue. Do not"
+10,tfidf,I cannot log in because I forgot my password. What do I do?,test,True,1,0.17311,password:4,password,737,987,"the password itself.
+
+A password reset is different from creating a new student account. Students should not create a second account to avoid a login problem because records may become separated. The help desk may ask for identity confirmation before"
+10,tfidf,I cannot log in because I forgot my password. What do I do?,test,True,2,0.162891,printer:5,printer,901,1144,"the selected scanning source for a scanner issue. Do not apply scanner instructions to a printer fault just because both problems involve blank output. If the printer still fails, note the model and contact technical support. This is a general"
+10,tfidf,I cannot log in because I forgot my password. What do I do?,test,True,3,0.131132,late:5,late,951,1212,A change in personal plans is not the same as illness and does not create an automatic exception. The medical-evidence condition remains part of the illness rule. Students should read the current course instructions because dates and assessment requirements can
+10,tfidf,How do I hand in my final coursework file?,test,True,1,0.337122,assignment:0,assignment,0,274,"Coursework Upload Instructions
+Coursework should be uploaded through the assignment page in the learning portal. Open the correct course, select the assessment, and read the submission instructions before choosing a file. For this example, the final assignment must be saved"
+10,tfidf,How do I hand in my final coursework file?,test,True,2,0.156356,assignment:1,assignment,216,442,"file. For this example, the final assignment must be saved as a PDF. Check the filename and open the PDF once before uploading so that missing pages or unreadable content can be noticed.
+
+After selecting the file, wait for the"
+10,tfidf,How do I hand in my final coursework file?,test,True,3,0.120401,late:4,late,781,996,"the student should take a screenshot of the error and contact the help desk before the deadline. Sending a file to a classmate does not count as an official submission.
+
+A change in personal plans is not the same as"
+10,tfidf,I was sick before the due date. What is required?,test,True,1,0.243945,password:2,password,357,606,"password or recovery code with another person.
+
+If the recovery email does not arrive, check the spam folder and confirm that the correct email address was entered. Wait a few minutes before requesting another message. Repeated requests may make the"
+10,tfidf,I was sick before the due date. What is required?,test,True,2,0.144522,late:4,late,781,996,"the student should take a screenshot of the error and contact the help desk before the deadline. Sending a file to a classmate does not count as an official submission.
+
+A change in personal plans is not the same as"
+10,tfidf,I was sick before the due date. What is required?,test,True,3,0.13634,assignment:3,assignment,575,805,"assessment has been marked. Uploading a draft to a personal cloud drive does not submit it to the course. If the wrong file is uploaded, check whether the portal allows replacement before the deadline.
+
+If the upload page gives an"
+10,tfidf,What are tomorrow's flight prices?,test,False,1,0.0,late:0,late,0,276,"Assessment and Late Submission Guide
+Students should upload coursework through the learning portal before the deadline shown on the course page. Late submission is normally penalized according to the assessment instructions. A student who becomes ill may request an extension,"
+10,tfidf,What are tomorrow's flight prices?,test,False,2,0.0,late:1,late,211,476,"instructions. A student who becomes ill may request an extension, but medical evidence must be provided before the original deadline. The request should be sent to the course coordinator and should clearly mention the affected course, assessment title and requested"
+10,tfidf,What are tomorrow's flight prices?,test,False,3,0.0,late:2,late,402,655,"should clearly mention the affected course, assessment title and requested extension period. An extension is not automatic and should not be assumed until the coordinator confirms it.
+
+Students should keep a copy of the submitted file and check that the"
+10,tfidf,Who won the football match yesterday?,test,False,1,0.228554,late:1,late,211,476,"instructions. A student who becomes ill may request an extension, but medical evidence must be provided before the original deadline. The request should be sent to the course coordinator and should clearly mention the affected course, assessment title and requested"
+10,tfidf,Who won the football match yesterday?,test,False,2,0.223568,password:0,password,0,246,"Student Account and Password Help
+A student who forgets an account password can start recovery from the login page by selecting the recovery link. The system will ask for the registered email address or another approved account detail. Follow the"
+10,tfidf,Who won the football match yesterday?,test,False,3,0.223398,late:0,late,0,276,"Assessment and Late Submission Guide
+Students should upload coursework through the learning portal before the deadline shown on the course page. Late submission is normally penalized according to the assessment instructions. A student who becomes ill may request an extension,"
+sentence,tfidf,What proof is needed for an illness extension?,dev,True,1,0.350269,late:5,late,951,1114,A change in personal plans is not the same as illness and does not create an automatic exception. The medical-evidence condition remains part of the illness rule. 
+sentence,tfidf,What proof is needed for an illness extension?,dev,True,2,0.247875,late:2,late,345,587,"The request should be sent to the course coordinator and should clearly mention the affected course, assessment title and requested extension period. An extension is not automatic and should not be assumed until the coordinator confirms it.
+
+"
+sentence,tfidf,What proof is needed for an illness extension?,dev,True,3,0.196062,late:1,late,225,345,"A student who becomes ill may request an extension, but medical evidence must be provided before the original deadline. "
+sentence,tfidf,How can I get back into my account after forgetting the password?,dev,True,1,0.381441,password:0,password,0,236,"Student Account and Password Help
+A student who forgets an account password can start recovery from the login page by selecting the recovery link. The system will ask for the registered email address or another approved account detail. "
+sentence,tfidf,How can I get back into my account after forgetting the password?,dev,True,2,0.322268,password:3,password,626,826,"If the account remains inaccessible, contact the IT help desk and provide the student username, but never send the password itself.
+
+A password reset is different from creating a new student account. "
+sentence,tfidf,How can I get back into my account after forgetting the password?,dev,True,3,0.172746,password:1,password,236,405,"Follow the instructions sent by the service and create a new password that is not used on another website. Never share a password or recovery code with another person.
+
+"
+sentence,tfidf,Where should I upload my coursework?,dev,True,1,0.430931,assignment:0,assignment,0,222,"Coursework Upload Instructions
+Coursework should be uploaded through the assignment page in the learning portal. Open the correct course, select the assessment, and read the submission instructions before choosing a file. "
+sentence,tfidf,Where should I upload my coursework?,dev,True,2,0.271385,late:0,late,0,225,"Assessment and Late Submission Guide
+Students should upload coursework through the learning portal before the deadline shown on the course page. Late submission is normally penalized according to the assessment instructions. "
+sentence,tfidf,Where should I upload my coursework?,dev,True,3,0.179829,assignment:2,assignment,404,603,"After selecting the file, wait for the upload to finish. A successful submission should show a confirmation message or receipt. Students should keep the receipt until the assessment has been marked. "
+sentence,tfidf,Are contractors allowed to work remotely?,dev,True,1,0.575182,contractor:2,contractor,494,678,Contractors may work remotely only when the signed contract explicitly permits remote work. A general statement about employee flexibility does not automatically apply to contractors. 
+sentence,tfidf,Are contractors allowed to work remotely?,dev,True,2,0.24356,contractor:0,contractor,0,273,"Remote Work and Contractor Conditions
+This sample workplace guide explains the difference between employee and contractor arrangements. Employees may request remote work when their manager approves the arrangement and the work can be completed safely away from the office. "
+sentence,tfidf,Are contractors allowed to work remotely?,dev,True,3,0.101052,contractor:1,contractor,273,494,"Approval may depend on the role, schedule, equipment and business needs. A request should describe the proposed working days and how communication with the team will be maintained.
+
+Contractors have a separate condition. "
+sentence,tfidf,What should I check when a printer makes blank pages?,test,True,1,0.425602,printer:0,printer,0,184,"Printer Troubleshooting Guide
+When a printer has power but produces blank pages, first check that the paper tray contains suitable paper and that the printer display shows no warning. "
+sentence,tfidf,What should I check when a printer makes blank pages?,test,True,2,0.34237,printer:1,printer,184,338,Check the ink or toner level using the printer controls or the computer's printer utility. A very low or empty cartridge can cause pages to appear blank. 
+sentence,tfidf,What should I check when a printer makes blank pages?,test,True,3,0.271792,printer:4,printer,685,872,"If the test page is still blank, check that the correct printer is selected and that the document itself contains visible text.
+
+A scanner producing a blank image is a different problem. "
+sentence,tfidf,I cannot log in because I forgot my password. What do I do?,test,True,1,0.170445,printer:5,printer,872,1127,"Check document placement and the selected scanning source for a scanner issue. Do not apply scanner instructions to a printer fault just because both problems involve blank output. If the printer still fails, note the model and contact technical support. "
+sentence,tfidf,I cannot log in because I forgot my password. What do I do?,test,True,2,0.144504,printer:2,printer,338,504,"Follow the device manual when handling cartridges and do not force a part that does not move easily.
+
+If ink or toner is available, run the printer cleaning utility. "
+sentence,tfidf,I cannot log in because I forgot my password. What do I do?,test,True,3,0.13678,password:1,password,236,405,"Follow the instructions sent by the service and create a new password that is not used on another website. Never share a password or recovery code with another person.
+
+"
+sentence,tfidf,How do I hand in my final coursework file?,test,True,1,0.303005,assignment:0,assignment,0,222,"Coursework Upload Instructions
+Coursework should be uploaded through the assignment page in the learning portal. Open the correct course, select the assessment, and read the submission instructions before choosing a file. "
+sentence,tfidf,How do I hand in my final coursework file?,test,True,2,0.117796,late:3,late,587,751,Students should keep a copy of the submitted file and check that the portal displays a successful upload message. The accepted file format for this example is PDF. 
+sentence,tfidf,How do I hand in my final coursework file?,test,True,3,0.098138,assignment:1,assignment,222,404,"For this example, the final assignment must be saved as a PDF. Check the filename and open the PDF once before uploading so that missing pages or unreadable content can be noticed.
+
+"
+sentence,tfidf,I was sick before the due date. What is required?,test,True,1,0.260371,password:2,password,405,626,"If the recovery email does not arrive, check the spam folder and confirm that the correct email address was entered. Wait a few minutes before requesting another message. Repeated requests may make the process confusing. "
+sentence,tfidf,I was sick before the due date. What is required?,test,True,2,0.172786,late:4,late,751,951,"If the portal is unavailable, the student should take a screenshot of the error and contact the help desk before the deadline. Sending a file to a classmate does not count as an official submission.
+
+"
+sentence,tfidf,I was sick before the due date. What is required?,test,True,3,0.160352,assignment:3,assignment,603,778,"Uploading a draft to a personal cloud drive does not submit it to the course. If the wrong file is uploaded, check whether the portal allows replacement before the deadline.
+
+"
+sentence,tfidf,What are tomorrow's flight prices?,test,False,1,0.0,late:0,late,0,225,"Assessment and Late Submission Guide
+Students should upload coursework through the learning portal before the deadline shown on the course page. Late submission is normally penalized according to the assessment instructions. "
+sentence,tfidf,What are tomorrow's flight prices?,test,False,2,0.0,late:1,late,225,345,"A student who becomes ill may request an extension, but medical evidence must be provided before the original deadline. "
+sentence,tfidf,What are tomorrow's flight prices?,test,False,3,0.0,late:2,late,345,587,"The request should be sent to the course coordinator and should clearly mention the affected course, assessment title and requested extension period. An extension is not automatic and should not be assumed until the coordinator confirms it.
+
+"
+sentence,tfidf,Who won the football match yesterday?,test,False,1,0.271439,late:1,late,225,345,"A student who becomes ill may request an extension, but medical evidence must be provided before the original deadline. "
+sentence,tfidf,Who won the football match yesterday?,test,False,2,0.207543,password:0,password,0,236,"Student Account and Password Help
+A student who forgets an account password can start recovery from the login page by selecting the recovery link. The system will ask for the registered email address or another approved account detail. "
+sentence,tfidf,Who won the football match yesterday?,test,False,3,0.095298,late:4,late,751,951,"If the portal is unavailable, the student should take a screenshot of the error and contact the help desk before the deadline. Sending a file to a classmate does not count as an official submission.
+
+"

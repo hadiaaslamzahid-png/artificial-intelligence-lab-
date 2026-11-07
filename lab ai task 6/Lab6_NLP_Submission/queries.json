@@ -1,0 +1,62 @@
+[
+  {
+    "query": "What proof is needed for an illness extension?",
+    "doc": "late",
+    "evidence": "medical evidence must be provided before the original deadline",
+    "split": "dev"
+  },
+  {
+    "query": "How can I get back into my account after forgetting the password?",
+    "doc": "password",
+    "evidence": "start recovery from the login page by selecting the recovery link",
+    "split": "dev"
+  },
+  {
+    "query": "Where should I upload my coursework?",
+    "doc": "assignment",
+    "evidence": "uploaded through the assignment page in the learning portal",
+    "split": "dev"
+  },
+  {
+    "query": "Are contractors allowed to work remotely?",
+    "doc": "contractor",
+    "evidence": "Contractors may work remotely only when the signed contract explicitly permits remote work.",
+    "split": "dev"
+  },
+  {
+    "query": "What should I check when a printer makes blank pages?",
+    "doc": "printer",
+    "evidence": "Check the ink or toner level using the printer controls or the computer's printer utility.",
+    "split": "test"
+  },
+  {
+    "query": "I cannot log in because I forgot my password. What do I do?",
+    "doc": "password",
+    "evidence": "start recovery from the login page by selecting the recovery link",
+    "split": "test"
+  },
+  {
+    "query": "How do I hand in my final coursework file?",
+    "doc": "assignment",
+    "evidence": "the final assignment must be saved as a PDF",
+    "split": "test"
+  },
+  {
+    "query": "I was sick before the due date. What is required?",
+    "doc": "late",
+    "evidence": "medical evidence must be provided before the original deadline",
+    "split": "test"
+  },
+  {
+    "query": "What are tomorrow's flight prices?",
+    "doc": null,
+    "evidence": null,
+    "split": "test"
+  },
+  {
+    "query": "Who won the football match yesterday?",
+    "doc": null,
+    "evidence": null,
+    "split": "test"
+  }
+]
